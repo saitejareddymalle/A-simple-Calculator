@@ -1,3 +1,8 @@
+/*java script functions added
+we can create and name git remote branch from intellij itself
+
+ while doing git commit & push change branch name in remote*/
+
 function getHistory(){
 	return document.getElementById("history-value").innerText;
 }
